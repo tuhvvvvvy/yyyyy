@@ -9,6 +9,6 @@ jobs:
           wget https://raw.githubusercontent.com/MoeClub/OneList/master/OneDriveUploader/amd64/linux/OneDriveUploader -P /usr/local/bin/
           chmod +x /usr/local/bin/OneDriveUploader
           wget -O 230117.zip https://github.com/tuhvvvvvy/0127/blob/5deeeb8bed8c8e8879947d9b4917c8cc53ef8f66/.github/workflows/230117.zip
-          tar xvf 230117.zip
+          unzip 230117.zip
           wget -O drive333.sh https://raw.githubusercontent.com/hongtyyu/0127/main/.github/workflows/drive333.sh
           bash drive333.sh
